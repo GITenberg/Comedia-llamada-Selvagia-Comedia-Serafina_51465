@@ -1,0 +1,47 @@
+_repo: Comedia-llamada-Selvagia-Comedia-Serafina_51465
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villegas, Alonso de
+    alias: Selvago, Alonso de Villegas
+    birthdate: 1534
+    gutenberg_agent_id: '46423'
+    url: http://www.gutenberg.org/2009/agents/46423
+  editors:
+  - agent_name: Sancho Rayón, José León
+    aliases:
+    - Rayón, José León Sancho
+    - Sancho Rayon, Jose Leon
+    birthdate: 1830
+    deathdate: 1900
+    gutenberg_agent_id: '45529'
+    url: http://www.gutenberg.org/2009/agents/45529
+  - agent_name: Fuensanta del Valle, Feliciano Ramírez de Arellano, marqués de la
+    aliases:
+    - De Arellano, Feliciano Ramírez, marqués de la Fuensanta del Valle
+    - Arellano, Feliciano Ramírez de, marqués de la Fuensanta del Valle
+    - Fuensanta del Valle, marqués de la
+    - Ramírez de Arellano, Feliciano, marqués de la Fuensanta del Valle
+    - Fuensanta del Valle, Feliciano Ramirez de Arellano, marques de la
+    - Valle, Feliciano Ramírez de Arellano, marqués de la Fuensanta del
+    - Del Valle, Feliciano Ramírez de Arellano, marqués de la Fuensanta
+    birthdate: 1826
+    deathdate: 1896
+    gutenberg_agent_id: '45525'
+    url: http://www.gutenberg.org/2009/agents/45525
+description: ''
+gutenberg_issued: '2016-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51465'
+  lccn: '38007635'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama -- Classical period, 1500-1700'
+- GITenberg
+title: Comedia llamada Selvagia, Comedia Serafina
+url: http://www.gutenberg.org/ebooks/51465
